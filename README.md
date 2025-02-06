@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RSupwpyFX) ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![](https://komarev.com/ghpvc/?username=RSupwpyFX) ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) 
 
 <p align="center"> 
 <br/>
@@ -94,6 +94,14 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+
+  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
+  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
+  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
+
+</p>
 
 <p align="center">
 
