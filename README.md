@@ -1,5 +1,4 @@
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2037%20mins-blue) ![](https://komarev.com/ghpvc/?username=RSupwpyFX) 
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![](https://komarev.com/ghpvc/?username=RSupwpyFX) ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p align="center"> 
 <br/>
@@ -77,3 +76,18 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 </details>
   
 <br />
+
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12175861551&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+</p>
