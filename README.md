@@ -97,14 +97,6 @@ No activity tracked
 
 <p align="center">
 
-  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
-  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
-  <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=187407732" alt="GoodReads reading" width="200" /></a>
-
-</p>
-
-<p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
 </p>
