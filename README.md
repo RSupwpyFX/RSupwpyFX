@@ -86,7 +86,11 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+TypeScript   1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+JSON         56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+SQL          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Docker       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
