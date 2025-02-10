@@ -85,21 +85,12 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 05 February 2025 - To: 09 February 2025
-
-Total Time: 5 hrs
-
-TypeScript        1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   24.53 %
-Java              1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-JSON              58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
-HTML              37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-SQL               18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Docker            18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-JavaScript        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Markdown          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Java Properties   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+```txt
+TypeScript        1 hr 13 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Java              1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+JSON              58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+HTML              37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+SQL               18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
