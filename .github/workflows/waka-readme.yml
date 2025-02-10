@@ -24,7 +24,7 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "2"
           SHOW_LOC_CHART: "False"
           SECTION_NAME: waka
           CODE_LANG: rust
