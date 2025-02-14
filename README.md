@@ -84,7 +84,7 @@ Hobbies: My hobbies are Play-Guitar, Cinema and Competitive Gaming.
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2014%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 13/02/2025 01:12:21 UTC
+ Last Updated on 14/02/2025 01:12:14 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
